@@ -2898,14 +2898,6 @@
 		    top: 30%;
 		    left: 50%;
 		    transform: translateX(-50%) translateY(-50%);
-			/*height: 20vh;*/
-			/*position: center;*/
-		    /*width: 0;*/
-		    /*height: 20%;*/
-		    /*top: 20%;*/
-		    /*left: 40%;*/
-		    /*margin-left: -50px;
-		    margin-top: -25px;*/
 		}
 
 		#header p {
@@ -2914,21 +2906,14 @@
 		    top: 40%;
 		    left: 50%;
 		    transform: translateX(-50%) translateY(-50%);
-		    /*height: 20vh;*/
-		    /*height: 60%;*/
-		    /*display: flex;*/
-		    /*justify-content: center;*/
-		    /*align-items: center;*/
 		}
 
 		#header .actions {
 			margin: 2.5em 0 0 0;
 			position: absolute;
-		    top: 70%;
+		    top: 80%;
 		    left: 43.5%;
 		    transform: translateX(-50%) translateY(-50%);
-			/*position: relative;*/
-/*			height: 50%;*/
 		}
 
 			#header .actions:after {
