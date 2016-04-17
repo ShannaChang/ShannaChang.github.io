@@ -2911,13 +2911,13 @@
 		#header .actions {
 			margin: 2.5em 0 0 0;
 			position: absolute;
-		    top: 80%;
+		    top: 70%;
 		    left: 43.5%;
 		    transform: translateX(-50%) translateY(-50%);
 		}
 
 			#header .actions:after {
-				background: #ffffff;
+				/*background: #ffffff;*/
 				content: '';
 				height: 100vh;
 				left: 50%;
