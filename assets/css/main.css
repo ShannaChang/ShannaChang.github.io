@@ -3890,7 +3890,7 @@
 					font-size: 2.5em;
 					margin: 0em;
 					position: absolute;
-				    top: 150px;
+				    top: 120px;
 				    left: 50%;
 				    transform: translateX(-50%) translateY(-50%);
 				}
@@ -3905,8 +3905,8 @@
 				#header .actions {
 					margin: 2.5em 0 0 0;
 					position: absolute;
-				    top: 60%;
-				    left: 37%;
+				    top: 70%;
+				    left: 35%;
 				    transform: translateX(-50%) translateY(-50%);
 				}
 
