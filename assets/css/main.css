@@ -3857,13 +3857,62 @@
 
 		/* Header */
 
-			#header {
+			/*#header {
 				padding: 5em 0 5em 0 ;
 				background-attachment: scroll;
 			}
 
 				#header br {
 					display: inline;
+				}*/
+
+			/* Header */
+
+			#header {
+				padding: 4em 2em 4em 2em ;
+			}
+
+				#header br {
+					/*display: none;*/
+					display: inline;
+				}
+
+				#header p {
+					font-size: 1.25em;
+					margin: 1em 0 0 0;
+					position: absolute;
+				    top: 250px;
+				    left: 50%;
+				    transform: translateX(-50%) translateY(-50%);
+				}
+
+				#header h1{
+					font-size: 2.5em;
+					margin: 0em;
+					position: absolute;
+				    top: 150px;
+				    left: 50%;
+				    transform: translateX(-50%) translateY(-50%);
+				}
+
+				#header .inner{
+					width: 100%;
+			        height: 100%;
+			        padding: 0 0 70%;
+			        background-size: 100%;
+				}
+
+				#header .actions {
+					margin: 2.5em 0 0 0;
+					position: absolute;
+				    top: 60%;
+				    left: 37%;
+				    transform: translateX(-50%) translateY(-50%);
+				}
+
+				#header .inner .actions li{
+					margin: 0.5 !important;
+					width: 150%;
 				}
 
 		/* Footer */
