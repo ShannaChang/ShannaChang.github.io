@@ -4498,49 +4498,6 @@
 
 	}
 
-	@media screen and (max-width: 1280px) {
-
-		/* Basic */
-
-			body, input, textarea, select {
-				font-size: 12pt;
-				line-height: 1.5em;
-			}
-
-		/* Wrapper */
-
-			.wrapper {
-				padding-left: 2em;
-				padding-right: 2em;
-			}
-
-		/* Header */
-
-			#header {
-				background-attachment: scroll;
-			}
-
-				#header .inner {
-					padding-left: 2em;
-					padding-right: 2em;
-				}
-
-		/* Banner */
-
-			#banner {
-				padding-left: 2em;
-				padding-right: 2em;
-			}
-
-		/* Footer */
-
-			#footer {
-				padding-left: 2em;
-				padding-right: 2em;
-			}
-
-	}
-
 /* Large */
 
 	@media screen and (max-width: 1140px) {
