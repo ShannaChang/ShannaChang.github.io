@@ -2331,6 +2331,16 @@
 				width: 100%;
 			}
 
+
+		.profile-image {
+		  margin-top: 60px;
+		  width: 250px;
+		  height: 250px;
+		  border-radius: 50%;
+		  border: 3px solid white;
+		  transition: all .5s;
+		}
+
 /* List */
 
 	ol {
@@ -2980,6 +2990,20 @@
 			top: 0;
 			width: 100%;
 		}
+		#header .copyright {
+			font-size: 0.7em;
+			list-style: none;
+			margin: 2em 0 0 0;
+			padding: 0;
+		}
+
+			#header .copyright li {
+				border-left: solid 1px;
+				display: inline-block;
+				line-height: 0em;
+				margin-left: 45em;
+				padding: 0 0 0 1em;
+			}
 
 	body.is-loading #header .inner {
 		-moz-transform: scale(1.05);
