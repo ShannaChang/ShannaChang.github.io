@@ -2903,6 +2903,7 @@
 
 				ul.icons li:last-child {
 					padding-right: 0;
+					font-size: 1.5em;
 				}
 
 				ul.icons li .icon:before {
@@ -3227,6 +3228,9 @@
 		.main.style1 {
 			background: #fff;
 		}
+			.main.style1 p{
+				font-size: 1.15em;
+			}
 
 		.main.style2 {
 			background-color: #333;
@@ -3503,7 +3507,7 @@
 			width: 100%;
 		}
 		#header .copyright {
-			font-size: 0.7em;
+			font-size: 0.6em;
 			list-style: none;
 			margin: 2em 0 0 0;
 			padding: 0;
@@ -3513,9 +3517,8 @@
 				border-left: solid 1px;
 				display: inline-block;
 				line-height: 0em;
-				margin-left: 45em;
+				margin-left: 55em;
 				padding: 0 0 0 1em;
-				/*position: absolute;*/
 			}
 
 	body.is-loading #header .inner {
@@ -3857,17 +3860,6 @@
 
 		/* Header */
 
-			/*#header {
-				padding: 5em 0 5em 0 ;
-				background-attachment: scroll;
-			}
-
-				#header br {
-					display: inline;
-				}*/
-
-			/* Header */
-
 			#header {
 				padding: 4em 2em 4em 2em ;
 			}
@@ -4014,6 +4006,10 @@
 
 	@media screen and (max-width: 480px) {
 
+			html, body {
+				min-width: 320px;
+			}
+
 			#nav {
 				display: none;
 			}
@@ -4153,18 +4149,14 @@
 				display: none;
 			}
 
+		/*major icon*/
+		
+
 		/* Main */
 
 			.main {
 				padding: 2em 1em 0.1em 1em ;
 			}
-
-		/* Header */
-/*
-			#header {
-				padding: 3em 1em 3em 1em ;
-			}*/
-
 
 		/* Header */
 
