@@ -93,27 +93,6 @@
 
 	@media screen and (max-width: 1680px) {
 
-		/*.container.\31 25\25 {
-			width: 100%;
-			max-width: 75em;
-			min-width: 60em;
-		}
-
-		.container.\37 5\25 {
-			width: 45em;
-		}
-
-		.container.\35 0\25 {
-			width: 30em;
-		}
-
-		.container.\32 5\25 {
-			width: 15em;
-		}
-
-		.container {
-			width: 60em;
-		}*/
 		.container.\31 25\25 {
 			width: 100%;
 			max-width: 1500px;
@@ -3319,6 +3298,9 @@
 			.main.style2 .icon.major {
 				color: #ffffff;
 			}
+
+/*resume content*/
+
 
 /* Header */
 
