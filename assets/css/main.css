@@ -4286,6 +4286,22 @@
 					width: 150%;
 				}
 
+		/*Resume*/
+		.card {
+		  	margin: 30px;
+		  	max-width: 1200px;
+		}
+
+		#resume h2{
+			font-size: 1em;
+		}
+		#resume h3{
+			font-size: 0.9em;
+		}
+		#resume p{
+			font-size: 0.8em;
+		}
+
 		/* Footer */
 
 			#footer {
