@@ -3299,11 +3299,70 @@
 				color: #ffffff;
 			}
 
-		.main.style3{
-			
+/*resume content*/
+	.card {
+	  margin: 100px;
+	  padding: 20px 40px 40px;
+	  max-width: 1050px;
+	  text-align: center;
+	  background: #fff;
+	  border-bottom: 4px solid #ccc;
+	  border-radius: 6px;
+	}
+
+	#resume{
+		padding: 9em 0 9em 0 ;
+		color: rgba(255, 255, 255, 0.75);
+		background-attachment: fixed,							fixed,							fixed;
+		background-image: url(../../images/wood_table.jpg);
+		background-position: top left,						center center,					center center;
+		background-size: auto,							cover,							cover;
+		overflow: hidden;
+		position: relative;
+		text-align: center;
+	}
+
+		#resume h1{
+			color: #ffffff;
+			font-weight: bold;
+		}
+		#resume h2{
+			text-align: left;
+			font: inherit;
+			text-decoration: none;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 1.5em;
+			border-bottom: 1px solid black;
+		}
+		#resume h3{
+			text-align: left;
+			font: inherit;
+			font-size: 1em;
+			font-weight: bold;
+			padding: 0;
+		    margin: 0;
+		}
+		#resume p{
+			text-align: left;
+			font: inherit;
+			font-size: 0.85em;
+			color: black;
 		}
 
-/*resume content*/
+		.no-list{
+		  margin: 0px;
+		  padding: 0px;
+		  list-style: none;
+		}
+		.work li{
+		  border-bottom: 1px solid #f1f1f1;
+		  margin-bottom: 1em;
+		}
+		.work li span{
+		  float: right;
+		}
+
 
 
 /* Header */
@@ -3524,6 +3583,14 @@
 
 	body.is-loading #header:after {
 		opacity: 1;
+	}
+
+	#header .data_wrapper{
+		padding: 30px 20px;
+		background: #fff;
+		border: 1px solid #f1f1f1;
+		box-shadow: 0px 6px #c0392b;
+		border-radius: 0px 0px 4px 4px;
 	}
 
 /* Nav */
