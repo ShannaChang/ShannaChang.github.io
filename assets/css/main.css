@@ -4302,20 +4302,38 @@
 				}
 
 		/*Resume*/
-		.card {
-		  	margin: 30px;
-		  	max-width: 1200px;
-		}
+			.card {
+			  	margin: 30px;
+			  	max-width: 1200px;
+			}
 
-		#resume h2{
-			font-size: 1em;
-		}
-		#resume h3{
-			font-size: 0.9em;
-		}
-		#resume p{
-			font-size: 0.8em;
-		}
+			#resume h2{
+				font-size: 1em;
+			}
+			#resume h3{
+				font-size: 0.9em;
+			}
+			#resume p{
+				font-size: 0.8em;
+			}
+
+		/*Skill Box*/
+			ul.skills {
+			  text-align: center;
+			  columns: 1;
+			  -webkit-columns: 1;
+			  -moz-columns: 1;
+			  font-size: 15px;
+			}
+
+			.skills li {
+			  margin: 2px;
+			}
+			#tab{
+		        margin-left: 80px;
+		        margin-right: 80px;
+			}
+
 
 		/* Footer */
 
@@ -4411,6 +4429,39 @@
 					width: 150%;
 				}
 
+
+		/*Resume*/
+			.card {
+			  	margin: 30px;
+			  	max-width: 1200px;
+			}
+
+			#resume h2{
+				font-size: 1em;
+			}
+			#resume h3{
+				font-size: 0.9em;
+			}
+			#resume p{
+				font-size: 0.8em;
+			}
+
+		/*Skill Box*/
+			ul.skills {
+			  text-align: center;
+			  columns: 1;
+			  -webkit-columns: 1;
+			  -moz-columns: 1;
+			  font-size: 15px;
+			}
+
+			.skills li {
+			  margin: 2px;
+			}
+			#tab{
+		        margin-left: 80px;
+		        margin-right: 80px;
+			}
 		/* Footer */
 
 			#footer {
@@ -4518,6 +4569,22 @@
 				ul.icons li a {
 					width: 2.25em;
 				}
+
+		/*Resume*/
+			.card {
+			  	margin: 30px;
+			  	max-width: 1200px;
+			}
+
+			#resume h2{
+				font-size: 1.25em;
+			}
+			#resume h3{
+				font-size: 1em;
+			}
+			#resume p{
+				font-size: 0.9em;
+			}
 
 		/* Button */
 
