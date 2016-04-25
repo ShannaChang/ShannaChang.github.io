@@ -3301,7 +3301,7 @@
 
 /*resume content*/
 	.card {
-	  margin: 100px;
+	  margin: 100px auto;
 	  padding: 20px 40px 40px;
 	  max-width: 1050px;
 	  text-align: center;
