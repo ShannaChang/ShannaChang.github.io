@@ -4333,6 +4333,20 @@
 		        margin-left: 80px;
 		        margin-right: 80px;
 			}
+		/*major icon*/
+			ul.major-icons li {
+				padding: 1em;
+			}
+
+				ul.major-icons li .icon {
+					height: 3em;
+					line-height: 3em;
+					width: 3em;
+				}
+			.icon.major:before {
+				font-size: 1.5em;
+				line-height: 1em;
+			}
 
 
 		/* Footer */
@@ -4373,6 +4387,19 @@
 			}
 
 		/*major icon*/
+			ul.major-icons li {
+				padding: 1em;
+			}
+
+				ul.major-icons li .icon {
+					height: 3em;
+					line-height: 3em;
+					width: 3em;
+				}
+			.icon.major:before {
+				font-size: 1.5em;
+				line-height: 1em;
+			}
 		
 
 		/* Main */
