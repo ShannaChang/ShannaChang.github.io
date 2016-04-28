@@ -3413,7 +3413,16 @@
 	        margin-left: 10%;
 	        margin-right: 10%;
 		}
-
+/*	.card1{
+		float: right;
+		width: 250px;
+	}
+	.card2{
+		float:left;
+		block: left;
+		width:500px;
+	}
+*/
 	/* Meters */
 		.meter { 
 		  height: 24px;
