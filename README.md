@@ -1,4 +1,4 @@
-# Personal Website
+## Personal Website
 
 	Original template:
  		Photon by HTML5 UP
