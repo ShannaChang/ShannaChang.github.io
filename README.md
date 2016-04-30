@@ -1,7 +1,7 @@
 ## Personal Website
 
-	Original template:
- 		Photon by HTML5 UP
+####	Original template:
+ 	     	Photon by HTML5 UP
  	Photos:
  		Shanna Chang
  		Anli hsu
