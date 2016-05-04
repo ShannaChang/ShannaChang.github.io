@@ -3381,12 +3381,21 @@
 		}
 
 	/*Skill Box*/
+
+	.skill-box{
+		margin: 0;
+		padding: 0;
+		float: left;
+		width: 50%
+	}
+
+	.clearfix{
+		clear: both;
+	}
+
 		ul.skills {
 		  padding: 0;
-		  text-align: center;
-		  columns: 2;
-		  -webkit-columns: 2;
-		  -moz-columns: 2;
+		  text-align: left;
 		  font-size: 15px;
 		}
 
@@ -3395,7 +3404,7 @@
 		  display: inline-block;
 		  color: white;
 		  padding: 1.5px 8px;
-		  margin: 5px;
+		  margin: 5px 0 0 5px;
 
 		}
 
