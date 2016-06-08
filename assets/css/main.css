@@ -73,17 +73,14 @@
 
 	.container.\37 5\25 {
 		width: 45em;
-		/*width: 1050px;*/
 	}
 
 	.container.\35 0\25 {
 		width: 30em;
-		/*width: 700px;*/
 	}
 
 	.container.\32 5\25 {
 		width: 15em;
-		/*width: 350px;*/
 	}
 
 	.container {
@@ -3213,7 +3210,6 @@
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			/*background-image: url("images/overlay1.png"), url("../../images/header.jpg");*/
 			background-image: url("images/overlay1.png"), url("../../images/wood1.png"); 
 			background-size: auto,							cover;
 		}
@@ -3302,11 +3298,11 @@
 	.card {
 	  margin: 100px auto;
 	  padding: 20px 40px 40px;
-	  max-width: 1050px;
+	  max-width: 1050em;
 	  text-align: center;
 	  background: #fff;
 	  border-bottom: 4px solid #ccc;
-	  border-radius: 6px;
+	  border-radius: 6em;
 	}
 
 	#resume{
