@@ -91,24 +91,24 @@
 
 		.container.\31 25\25 {
 			width: 100%;
-			max-width: 1500px;
-			min-width: 1200px;
+			max-width: 1500em;
+			min-width: 1200em;
 		}
 
 		.container.\37 5\25 {
-			width: 900px;
+			width: 900em;
 		}
 
 		.container.\35 0\25 {
-			width: 600px;
+			width: 600em;
 		}
 
 		.container.\32 5\25 {
-			width: 300px;
+			width: 300em;
 		}
 
 		.container {
-			width: 1200px;
+			width: 1200em;
 		}
 
 	}
