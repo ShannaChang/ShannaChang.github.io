@@ -65,22 +65,25 @@
 
 	.container.\31 25\25 {
 		width: 100%;
-		/*max-width: 75em;*/
-		/*min-width: 60em;*/
-		max-width: 1750px;
-		min-width: 1400px;
+		max-width: 75em;
+		min-width: 60em;
+		/*max-width: 1750px;
+		min-width: 1400px;*/
 	}
 
 	.container.\37 5\25 {
-		width: 45em;
+		/*width: 1050px;*/
+		width: 65.625em;
 	}
 
 	.container.\35 0\25 {
-		width: 30em;
+		/*width: 700px;*/
+		width: 43.75em;
 	}
 
 	.container.\32 5\25 {
-		width: 15em;
+		/*width: 350px;*/
+		width: 21.875em;
 	}
 
 	.container {
@@ -3298,11 +3301,13 @@
 	.card {
 	  margin: 100px auto;
 	  padding: 20px 40px 40px;
-	  max-width: 1050em;
+	  /*max-width: 1050px;*/
+	  max-width: 59em;
 	  text-align: center;
 	  background: #fff;
 	  border-bottom: 4px solid #ccc;
-	  border-radius: 6em;
+	  /*border-radius: 6px;*/
+	  border-radius: 0.475em;
 	}
 
 	#resume{
